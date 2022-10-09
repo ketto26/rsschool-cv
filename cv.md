@@ -2,7 +2,7 @@
 ___
 ### Contact Info
 ___
- - Email: [keto_nioradze@yahoo.com](https://keto_nioradze@yahoo.com/)
+ - Email: [ketonioradze@gmail.com](https://ketonioradze@gmail.com/)
  - Telegram: @Keto.Nioradze
  - Github: [ketto26](https://github.com/ketto26)
 ### Summary
