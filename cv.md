@@ -7,7 +7,7 @@ ___
  - Github: [ketto26](https://github.com/ketto26)
 ### Summary
 ___
-I’m 19 years old  beginner Frontend Developer.
+I’m 21 years old  beginner Frontend Developer.
 Right now I don’t have much of experience in the field, but I am a fast learner who is really interested in web development. I'm sure I could become a valuable asset to your team.
 ### Soft Skills
 ___
