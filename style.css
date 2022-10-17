@@ -42,6 +42,7 @@ html {
     border: 1px solid #c2c2c2;
     margin: 0 auto 20px;
     padding: 30px 20px;
+
   
   }
   
@@ -49,7 +50,11 @@ html {
     text-align: center;
     margin-bottom: 20px;
   }
-  
+  .code_example_img{
+    max-width: 300px;
+    position: relative;
+    left: 30%;
+  }
 
   /* sections */
   .skills ul {
