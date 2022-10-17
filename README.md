@@ -1,1 +1,1 @@
-https://github.com/ketto26/rsschool-cv
+https://ketto26.github.io/rsschool-cv/
