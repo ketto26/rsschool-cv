@@ -2,9 +2,7 @@ html {
     box-sizing: border-box;
     font-family: sans-serif;
   }
-  
- 
-  
+
   body {
     padding: 20px;
   }
@@ -41,9 +39,7 @@ html {
     border-radius: 9px;
     border: 1px solid #c2c2c2;
     margin: 0 auto 20px;
-    padding: 30px 20px;
-
-  
+    padding: 30px 20px;  
   }
   
   .section__title {
